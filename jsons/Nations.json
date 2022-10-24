@@ -26,9 +26,12 @@
 		
 		"afterPeace": "Very well, all that fighting and bloodshed may end.",
 		"tradeRequest": "My friend, does this seem reasonable to you?",
-
-		"outerColor": [139, 0, 0],
-		"innerColor": [1,50,32],
+        
+        //OLDER COLOR SCHEME		
+		//"outerColor": [139, 0, 0],
+		//"innerColor": [1,50,32],
+		"outerColor": [0, 100, 0],
+		"innerColor": [255,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Will of the people",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
