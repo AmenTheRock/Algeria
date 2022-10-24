@@ -3,37 +3,36 @@
 		"name": "Algeria",
 		"leaderName": "Abdelkader",
 		"adjective": ["Algerian"],
-		"startBias": ["Avoid [Tundra],Desert"],
+		"startBias": ["Avoid [Tundra], Desert"],
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "Revered Saint among the Princes, Prince among the Saints, hear your people's words! You are widely praised for effectively combining religious and political authority! You proved to be a grand leader! Your consistent regard for what would now be called human rights, especially as regards your Christian opponents, drew widespread admiration, and a crucial intervention to save the Christian community of Damascus from a massacre in 1860 brought honours and awards from around the world! You successfully held out against one of the most advanced armies in Europe for many years with an army built up of tribesmen.",
 		"startIntroPart2": "Emir Abdelkader, your charisma and authority are an absolute necessity! Build up the ideal nation and strive for improvement! Can you hold back invading enemies? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": ["You have provoked us,you must be crushed.","Algeria deems you a threat,you must begone"],
-		"attacked": ["Foolish to assume we were unprepeared.","We have always seen you as an enemy.","There is no place for snakes in this world."],
-		"defeated": ["I accept my defeat,I hope my people do not suffer under your rule.","There was a miscalculation that caused my failure,it is the end of Djazir.","Djzair will rise again! I promise you that!"],
+		"declaringWar": "You have provoked us,now meet our wrath.",
+		"attacked": "Foolish to assume we were unprepeared.",
+		"defeated": "I accept my defeat,I hope my people do not suffer under your rule. Djzair will rise again! I promise you that!",
 		"introduction": "Greetings,I am Abdelkader of Algeria,Intrested in some chai?",
 
-		"neutralHello": ["How are you doing?","Salam!","Ah,its you again","Salam brother,what is it?"]
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","Unreasonable!","Unacceptable.","Sorry."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good.","Acceptable."],
+		"neutralHello": "Salam brother,what is it?",
+		"neutralLetsHearIt": "You may begin.",
+		"neutralNo": "Unreasonable!",
+		"neutralYes": "Yes. That is very good.",
 
 		"hateHello": "Quickly,I have no time for such matters.",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?","Absolute Foolery!"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": "Speak!",
+		"hateNo": "That is not possible!",
+		"hateYes": "That is fine. Very well...",
 		
-		"afterPeace": ["Very well, all that fighting and bloodshed may end.","Wiser to end the war than continue it.","Im glad you have came to your senses."],
-		"tradeRequest": ["My friend, does this seem reasonable to you?","How about this offer?","What do you think of this?"],
+		"afterPeace": "Very well, all that fighting and bloodshed may end.",
+		"tradeRequest": "My friend, does this seem reasonable to you?",
 
 		"outerColor": [139, 0, 0],
 		"innerColor": [1,50,32],
 		"favoredReligion": "Islam",
 		"uniqueName": "Will of the people",
-		"unique": "MANIFEST_DESTINY"
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
 		"cities": ["Algiers","Oran","Constantine","Setif","Annaba","Djelfa","Biskra","Batna","Tiaret","Blida","Tebessa","Skikda","M'Sila","Chlef","Bejaia","Bechar","Laghouat","Tlemcen","Guelma"],
-        "spyNames": ["Hakim","Haroun","Khalil","Said","Farid","Mustafa","Omar","Khalid","Karim","Walid","Ali","Authman","Hadi","Adem","Ghanou"]
+//	    "spyNames": ["Hakim Haroun Khalil Said Farid Mustafa Omar Khalid Karim Walid Ali Authman Hadi Adem Ghanou"]
      },
-	]
+]
