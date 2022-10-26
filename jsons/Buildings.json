@@ -3,12 +3,12 @@
 		"name": "Dair El Elim",
 		"cost": "240",
 		"culture": 3,
-		"science": 10,
+		"science": 15,
 		"isNationalWonder": true,
 		"uniqueTo": "Algeria",
 		"requiredTech": "Mathematics",
-		"maintenance": 1,
-		"uniques": ["[+15 Science] per [2] population [in this city]","Only available <after discovering [Writing]>","Only available <after discovering [Optics]>","Only available <after discovering [Mathematics]>","Only available <after discovering [Philosophy]>"],
+		"maintenance": 4,
+		"uniques": ["[+15 Science] per [2] population [in this city]","Only available <after discovering [Writing]>","Only available <after discovering [Optics]>","Only available <after discovering [Mathematics]>","Only available <after discovering [Philosophy]>","Only available <after discovering [Education]>"],
 		"quote": "'Science is of light and ignorance is of darkness.' - Abdel El Hamid Ibn Badis "
 	},
 ]
